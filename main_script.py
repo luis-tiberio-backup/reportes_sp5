@@ -35,11 +35,11 @@ REPORT_URL_T2 = "https://lookerstudio.google.com/s/sS1xru1_0LU"   # 14h–21h
 REPORT_URL_T3 = "https://lookerstudio.google.com/s/nps1V7Dtudo"   # demais horários
 
 # Webhook Principal
-WEBHOOK_URL = os.environ.get("https://openapi.seatalk.io/webhook/group/ATSiL-5DRiGnHdV0t2XLlg")
+WEBHOOK_URL = os.environ.get("https://openapi.seatalk.io/webhook/group/ks-dZEaLQt-1xCOAp54hLQ")
 
 # --- CONFIGURAÇÃO DO SEGUNDO PRINT (EXTRA) ---
 REPORT_URL_EXTRA = "https://lookerstudio.google.com/s/pg9Ho6yKSdk"
-WEBHOOK_URL_EXTRA = os.environ.get("https://openapi.seatalk.io/webhook/group/ATSiL-5DRiGnHdV0t2XLlg")
+WEBHOOK_URL_EXTRA = os.environ.get("https://openapi.seatalk.io/webhook/group/6968RfmNTh-rKeNcNevEkg")
 # ---------------------------------------------
 
 # Mapa de Colunas (Lógica das Horas)
